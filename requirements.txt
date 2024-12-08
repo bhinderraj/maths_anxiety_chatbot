@@ -1,4 +1,3 @@
 replicate
-os
-textblob
+textblob==0.18
 streamlit
