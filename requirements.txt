@@ -1,0 +1,4 @@
+replicate
+os
+textblob
+streamlit
