@@ -1,0 +1,1201 @@
+Problem Statement,User Input,Expected Sentiment,Emotion Context,Expected Response,Step in Conversation
+7/4 * 8/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+7/4 * 8/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+7/4 * 8/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+7/4 * 8/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+7/4 * 8/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+7/4 * 8/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/4 * 8/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+7/4 * 8/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+5/2 - 8/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+5/2 - 8/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/2 - 8/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+5/2 - 8/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+5/2 - 8/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+5/2 - 8/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+5/2 - 8/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+5/2 - 8/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+3/7 * 4/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+3/7 * 4/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+3/7 * 4/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+3/7 * 4/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/7 * 4/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+3/7 * 4/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+3/7 * 4/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/7 * 4/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+2/9 / 5/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+2/9 / 5/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+2/9 / 5/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/9 / 5/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+2/9 / 5/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+2/9 / 5/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+2/9 / 5/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+2/9 / 5/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+8/4 - 2/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+8/4 - 2/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/4 - 2/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+8/4 - 2/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+8/4 - 2/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+8/4 - 2/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+8/4 - 2/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+8/4 - 2/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+4/8 - 7/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+4/8 - 7/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+4/8 - 7/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+4/8 - 7/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+4/8 - 7/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+4/8 - 7/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+4/8 - 7/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+4/8 - 7/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+9/1 + 9/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+9/1 + 9/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+9/1 + 9/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+9/1 + 9/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+9/1 + 9/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+9/1 + 9/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+9/1 + 9/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+9/1 + 9/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/7 + 9/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+5/7 + 9/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/7 + 9/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/7 + 9/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+5/7 + 9/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/7 + 9/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+5/7 + 9/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+5/7 + 9/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+3/1 * 3/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+3/1 * 3/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+3/1 * 3/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+3/1 * 3/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/1 * 3/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+3/1 * 3/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+3/1 * 3/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+3/1 * 3/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/9 + 3/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+7/9 + 3/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+7/9 + 3/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+7/9 + 3/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+7/9 + 3/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+7/9 + 3/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/9 + 3/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+7/9 + 3/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+4/7 / 3/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+4/7 / 3/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+4/7 / 3/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+4/7 / 3/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+4/7 / 3/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+4/7 / 3/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+4/7 / 3/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+4/7 / 3/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/9 + 7/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+7/9 + 7/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+7/9 + 7/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+7/9 + 7/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+7/9 + 7/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+7/9 + 7/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/9 + 7/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+7/9 + 7/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+6/8 + 9/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/8 + 9/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+6/8 + 9/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+6/8 + 9/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+6/8 + 9/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/8 + 9/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/8 + 9/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+6/8 + 9/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+1/4 * 7/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+1/4 * 7/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+1/4 * 7/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+1/4 * 7/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+1/4 * 7/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+1/4 * 7/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+1/4 * 7/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+1/4 * 7/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+6/7 + 5/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/7 + 5/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+6/7 + 5/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+6/7 + 5/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/7 + 5/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/7 + 5/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+6/7 + 5/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+6/7 + 5/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+8/1 + 6/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+8/1 + 6/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/1 + 6/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+8/1 + 6/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+8/1 + 6/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+8/1 + 6/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+8/1 + 6/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+8/1 + 6/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+6/3 * 4/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+6/3 * 4/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/3 * 4/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+6/3 * 4/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+6/3 * 4/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+6/3 * 4/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/3 * 4/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+6/3 * 4/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+2/8 + 1/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+2/8 + 1/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+2/8 + 1/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+2/8 + 1/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/8 + 1/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+2/8 + 1/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+2/8 + 1/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+2/8 + 1/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+9/4 + 1/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+9/4 + 1/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+9/4 + 1/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+9/4 + 1/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+9/4 + 1/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+9/4 + 1/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+9/4 + 1/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+9/4 + 1/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+3/3 - 4/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+3/3 - 4/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+3/3 - 4/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+3/3 - 4/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+3/3 - 4/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+3/3 - 4/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+3/3 - 4/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/3 - 4/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+3/9 - 2/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+3/9 - 2/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+3/9 - 2/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+3/9 - 2/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/9 - 2/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+3/9 - 2/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+3/9 - 2/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/9 - 2/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+4/8 * 8/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+4/8 * 8/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+4/8 * 8/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+4/8 * 8/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+4/8 * 8/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+4/8 * 8/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+4/8 * 8/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+4/8 * 8/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+6/6 / 3/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/6 / 3/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/6 / 3/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+6/6 / 3/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/6 / 3/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/6 / 3/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/6 / 3/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+6/6 / 3/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/3 / 4/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+5/3 / 4/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/3 / 4/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+5/3 / 4/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+5/3 / 4/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/3 / 4/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+5/3 / 4/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+5/3 / 4/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+9/5 - 8/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+9/5 - 8/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+9/5 - 8/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+9/5 - 8/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+9/5 - 8/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+9/5 - 8/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+9/5 - 8/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+9/5 - 8/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+1/3 - 2/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+1/3 - 2/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+1/3 - 2/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+1/3 - 2/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+1/3 - 2/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+1/3 - 2/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+1/3 - 2/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+1/3 - 2/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/2 / 2/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+7/2 / 2/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+7/2 / 2/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+7/2 / 2/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+7/2 / 2/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+7/2 / 2/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/2 / 2/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+7/2 / 2/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+3/2 + 9/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+3/2 + 9/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+3/2 + 9/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+3/2 + 9/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/2 + 9/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+3/2 + 9/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+3/2 + 9/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/2 + 9/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+7/2 * 2/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+7/2 * 2/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+7/2 * 2/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+7/2 * 2/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+7/2 * 2/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+7/2 * 2/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+7/2 * 2/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+7/2 * 2/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+6/1 * 4/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+6/1 * 4/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/1 * 4/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+6/1 * 4/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/1 * 4/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+6/1 * 4/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/1 * 4/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+6/1 * 4/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+4/3 / 7/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+4/3 / 7/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+4/3 / 7/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+4/3 / 7/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+4/3 / 7/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+4/3 / 7/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+4/3 / 7/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+4/3 / 7/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+7/5 * 5/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+7/5 * 5/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+7/5 * 5/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+7/5 * 5/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+7/5 * 5/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+7/5 * 5/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/5 * 5/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+7/5 * 5/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+6/9 + 8/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+6/9 + 8/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/9 + 8/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+6/9 + 8/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/9 + 8/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/9 + 8/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/9 + 8/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+6/9 + 8/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+3/5 + 6/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+3/5 + 6/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+3/5 + 6/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+3/5 + 6/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/5 + 6/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+3/5 + 6/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+3/5 + 6/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/5 + 6/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/7 - 4/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+5/7 - 4/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/7 - 4/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/7 - 4/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+5/7 - 4/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/7 - 4/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+5/7 - 4/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+5/7 - 4/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+4/3 + 1/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+4/3 + 1/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+4/3 + 1/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+4/3 + 1/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+4/3 + 1/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+4/3 + 1/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+4/3 + 1/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+4/3 + 1/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+1/3 + 5/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+1/3 + 5/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+1/3 + 5/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+1/3 + 5/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+1/3 + 5/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+1/3 + 5/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+1/3 + 5/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+1/3 + 5/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+3/2 + 3/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+3/2 + 3/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+3/2 + 3/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+3/2 + 3/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+3/2 + 3/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+3/2 + 3/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+3/2 + 3/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/2 + 3/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+9/7 - 4/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+9/7 - 4/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+9/7 - 4/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+9/7 - 4/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+9/7 - 4/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+9/7 - 4/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+9/7 - 4/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+9/7 - 4/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+5/9 + 8/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+5/9 + 8/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+5/9 + 8/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+5/9 + 8/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+5/9 + 8/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+5/9 + 8/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+5/9 + 8/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+5/9 + 8/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+7/7 + 9/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+7/7 + 9/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+7/7 + 9/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+7/7 + 9/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+7/7 + 9/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+7/7 + 9/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+7/7 + 9/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+7/7 + 9/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+3/1 * 4/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+3/1 * 4/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+3/1 * 4/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+3/1 * 4/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+3/1 * 4/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+3/1 * 4/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+3/1 * 4/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+3/1 * 4/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/3 * 9/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+5/3 * 9/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/3 * 9/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/3 * 9/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+5/3 * 9/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+5/3 * 9/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+5/3 * 9/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+5/3 * 9/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/5 + 3/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+7/5 + 3/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+7/5 + 3/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+7/5 + 3/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+7/5 + 3/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+7/5 + 3/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+7/5 + 3/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+7/5 + 3/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+6/7 - 8/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/7 - 8/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+6/7 - 8/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+6/7 - 8/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/7 - 8/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+6/7 - 8/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/7 - 8/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+6/7 - 8/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+8/1 + 6/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+8/1 + 6/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+8/1 + 6/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+8/1 + 6/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+8/1 + 6/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+8/1 + 6/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+8/1 + 6/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+8/1 + 6/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+6/7 - 3/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/7 - 3/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+6/7 - 3/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+6/7 - 3/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+6/7 - 3/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/7 - 3/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+6/7 - 3/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+6/7 - 3/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+9/7 + 1/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+9/7 + 1/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+9/7 + 1/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+9/7 + 1/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+9/7 + 1/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+9/7 + 1/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+9/7 + 1/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+9/7 + 1/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+6/5 * 6/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+6/5 * 6/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/5 * 6/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+6/5 * 6/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/5 * 6/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/5 * 6/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+6/5 * 6/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+6/5 * 6/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+1/5 * 6/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+1/5 * 6/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+1/5 * 6/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+1/5 * 6/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+1/5 * 6/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+1/5 * 6/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+1/5 * 6/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+1/5 * 6/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+8/2 / 5/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+8/2 / 5/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/2 / 5/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+8/2 / 5/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+8/2 / 5/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+8/2 / 5/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+8/2 / 5/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+8/2 / 5/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+3/6 / 2/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+3/6 / 2/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+3/6 / 2/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+3/6 / 2/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+3/6 / 2/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+3/6 / 2/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+3/6 / 2/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/6 / 2/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+5/7 - 8/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+5/7 - 8/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+5/7 - 8/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/7 - 8/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+5/7 - 8/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+5/7 - 8/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+5/7 - 8/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+5/7 - 8/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+9/6 - 1/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+9/6 - 1/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+9/6 - 1/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+9/6 - 1/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+9/6 - 1/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+9/6 - 1/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+9/6 - 1/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+9/6 - 1/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/5 + 6/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+5/5 + 6/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/5 + 6/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+5/5 + 6/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+5/5 + 6/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/5 + 6/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+5/5 + 6/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+5/5 + 6/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/9 + 1/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+5/9 + 1/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+5/9 + 1/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+5/9 + 1/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+5/9 + 1/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/9 + 1/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+5/9 + 1/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+5/9 + 1/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+2/6 * 6/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+2/6 * 6/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+2/6 * 6/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+2/6 * 6/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+2/6 * 6/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+2/6 * 6/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+2/6 * 6/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+2/6 * 6/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+1/7 - 5/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+1/7 - 5/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+1/7 - 5/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+1/7 - 5/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+1/7 - 5/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+1/7 - 5/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+1/7 - 5/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+1/7 - 5/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+2/2 / 3/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+2/2 / 3/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+2/2 / 3/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/2 / 3/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+2/2 / 3/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+2/2 / 3/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+2/2 / 3/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+2/2 / 3/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+1/5 + 4/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+1/5 + 4/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+1/5 + 4/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+1/5 + 4/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+1/5 + 4/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+1/5 + 4/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+1/5 + 4/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+1/5 + 4/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+3/9 / 7/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+3/9 / 7/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+3/9 / 7/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+3/9 / 7/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/9 / 7/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+3/9 / 7/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+3/9 / 7/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+3/9 / 7/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+2/3 + 3/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+2/3 + 3/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+2/3 + 3/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/3 + 3/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/3 + 3/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+2/3 + 3/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+2/3 + 3/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+2/3 + 3/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+9/2 - 1/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+9/2 - 1/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+9/2 - 1/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+9/2 - 1/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+9/2 - 1/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+9/2 - 1/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+9/2 - 1/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+9/2 - 1/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+1/4 + 1/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+1/4 + 1/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+1/4 + 1/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+1/4 + 1/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+1/4 + 1/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+1/4 + 1/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+1/4 + 1/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+1/4 + 1/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/8 * 2/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+7/8 * 2/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+7/8 * 2/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+7/8 * 2/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+7/8 * 2/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+7/8 * 2/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+7/8 * 2/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+7/8 * 2/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+2/6 * 3/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+2/6 * 3/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+2/6 * 3/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/6 * 3/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/6 * 3/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+2/6 * 3/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+2/6 * 3/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+2/6 * 3/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+6/9 + 1/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+6/9 + 1/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/9 + 1/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+6/9 + 1/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/9 + 1/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/9 + 1/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+6/9 + 1/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+6/9 + 1/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+2/8 / 8/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+2/8 / 8/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+2/8 / 8/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/8 / 8/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+2/8 / 8/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+2/8 / 8/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+2/8 / 8/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+2/8 / 8/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+8/6 + 5/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+8/6 + 5/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/6 + 5/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+8/6 + 5/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+8/6 + 5/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+8/6 + 5/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+8/6 + 5/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+8/6 + 5/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+8/7 * 9/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+8/7 * 9/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+8/7 * 9/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+8/7 * 9/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+8/7 * 9/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+8/7 * 9/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+8/7 * 9/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+8/7 * 9/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+6/6 - 1/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/6 - 1/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+6/6 - 1/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+6/6 - 1/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+6/6 - 1/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+6/6 - 1/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+6/6 - 1/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+6/6 - 1/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+5/6 * 6/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+5/6 * 6/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/6 * 6/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/6 * 6/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+5/6 * 6/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/6 * 6/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+5/6 * 6/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+5/6 * 6/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+4/3 - 1/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+4/3 - 1/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+4/3 - 1/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+4/3 - 1/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+4/3 - 1/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+4/3 - 1/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+4/3 - 1/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+4/3 - 1/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/9 * 1/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+5/9 * 1/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+5/9 * 1/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/9 * 1/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+5/9 * 1/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/9 * 1/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+5/9 * 1/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+5/9 * 1/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+2/5 - 8/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+2/5 - 8/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+2/5 - 8/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/5 - 8/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/5 - 8/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+2/5 - 8/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+2/5 - 8/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+2/5 - 8/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+3/5 * 5/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+3/5 * 5/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+3/5 * 5/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+3/5 * 5/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+3/5 * 5/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+3/5 * 5/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+3/5 * 5/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/5 * 5/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+2/8 / 8/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+2/8 / 8/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+2/8 / 8/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/8 / 8/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/8 / 8/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+2/8 / 8/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+2/8 / 8/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+2/8 / 8/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+1/9 * 1/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+1/9 * 1/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+1/9 * 1/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+1/9 * 1/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+1/9 * 1/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+1/9 * 1/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+1/9 * 1/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+1/9 * 1/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+6/3 / 7/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+6/3 / 7/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/3 / 7/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+6/3 / 7/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/3 / 7/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+6/3 / 7/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+6/3 / 7/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+6/3 / 7/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+4/6 + 9/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+4/6 + 9/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+4/6 + 9/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+4/6 + 9/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+4/6 + 9/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+4/6 + 9/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+4/6 + 9/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+4/6 + 9/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+5/1 + 6/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+5/1 + 6/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+5/1 + 6/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+5/1 + 6/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+5/1 + 6/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+5/1 + 6/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+5/1 + 6/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+5/1 + 6/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+4/2 / 3/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+4/2 / 3/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+4/2 / 3/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+4/2 / 3/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+4/2 / 3/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+4/2 / 3/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+4/2 / 3/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+4/2 / 3/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+6/8 - 7/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+6/8 - 7/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+6/8 - 7/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+6/8 - 7/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+6/8 - 7/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+6/8 - 7/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/8 - 7/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+6/8 - 7/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+1/9 + 6/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+1/9 + 6/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+1/9 + 6/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+1/9 + 6/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+1/9 + 6/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+1/9 + 6/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+1/9 + 6/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+1/9 + 6/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/4 + 6/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+5/4 + 6/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+5/4 + 6/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+5/4 + 6/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+5/4 + 6/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+5/4 + 6/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+5/4 + 6/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+5/4 + 6/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+9/5 + 9/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+9/5 + 9/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+9/5 + 9/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+9/5 + 9/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+9/5 + 9/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+9/5 + 9/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+9/5 + 9/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+9/5 + 9/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+6/2 * 7/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+6/2 * 7/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/2 * 7/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+6/2 * 7/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+6/2 * 7/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+6/2 * 7/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+6/2 * 7/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+6/2 * 7/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+8/9 - 7/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+8/9 - 7/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+8/9 - 7/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+8/9 - 7/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+8/9 - 7/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+8/9 - 7/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+8/9 - 7/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+8/9 - 7/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+2/5 + 1/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+2/5 + 1/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+2/5 + 1/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+2/5 + 1/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/5 + 1/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+2/5 + 1/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+2/5 + 1/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+2/5 + 1/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+1/7 * 3/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+1/7 * 3/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+1/7 * 3/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+1/7 * 3/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+1/7 * 3/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+1/7 * 3/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+1/7 * 3/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+1/7 * 3/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+2/1 - 3/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+2/1 - 3/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+2/1 - 3/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+2/1 - 3/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/1 - 3/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+2/1 - 3/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+2/1 - 3/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+2/1 - 3/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+8/7 / 7/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+8/7 / 7/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/7 / 7/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+8/7 / 7/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+8/7 / 7/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+8/7 / 7/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+8/7 / 7/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+8/7 / 7/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+2/7 + 8/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+2/7 + 8/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+2/7 + 8/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+2/7 + 8/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+2/7 + 8/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+2/7 + 8/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+2/7 + 8/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+2/7 + 8/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/3 / 3/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+5/3 / 3/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+5/3 / 3/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/3 / 3/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+5/3 / 3/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/3 / 3/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+5/3 / 3/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+5/3 / 3/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+5/7 - 2/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+5/7 - 2/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/7 - 2/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/7 - 2/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+5/7 - 2/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+5/7 - 2/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+5/7 - 2/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+5/7 - 2/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+2/2 / 1/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+2/2 / 1/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+2/2 / 1/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+2/2 / 1/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/2 / 1/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+2/2 / 1/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+2/2 / 1/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+2/2 / 1/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/6 + 9/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+5/6 + 9/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+5/6 + 9/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+5/6 + 9/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+5/6 + 9/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+5/6 + 9/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+5/6 + 9/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+5/6 + 9/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/1 + 2/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+7/1 + 2/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+7/1 + 2/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+7/1 + 2/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+7/1 + 2/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+7/1 + 2/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+7/1 + 2/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+7/1 + 2/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+6/4 + 2/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/4 + 2/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+6/4 + 2/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+6/4 + 2/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/4 + 2/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/4 + 2/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/4 + 2/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+6/4 + 2/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+1/5 - 9/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+1/5 - 9/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+1/5 - 9/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+1/5 - 9/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+1/5 - 9/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+1/5 - 9/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+1/5 - 9/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+1/5 - 9/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+6/8 + 2/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/8 + 2/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+6/8 + 2/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+6/8 + 2/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/8 + 2/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+6/8 + 2/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/8 + 2/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+6/8 + 2/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+2/6 + 1/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+2/6 + 1/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+2/6 + 1/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/6 + 1/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+2/6 + 1/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+2/6 + 1/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+2/6 + 1/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+2/6 + 1/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+7/8 - 3/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+7/8 - 3/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+7/8 - 3/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+7/8 - 3/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+7/8 - 3/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+7/8 - 3/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/8 - 3/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+7/8 - 3/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+4/3 * 3/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+4/3 * 3/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+4/3 * 3/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+4/3 * 3/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+4/3 * 3/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+4/3 * 3/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+4/3 * 3/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+4/3 * 3/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+2/5 / 9/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+2/5 / 9/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+2/5 / 9/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/5 / 9/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+2/5 / 9/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+2/5 / 9/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+2/5 / 9/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+2/5 / 9/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+3/3 / 2/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+3/3 / 2/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+3/3 / 2/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+3/3 / 2/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+3/3 / 2/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+3/3 / 2/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+3/3 / 2/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+3/3 / 2/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+1/1 + 9/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+1/1 + 9/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+1/1 + 9/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+1/1 + 9/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+1/1 + 9/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+1/1 + 9/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+1/1 + 9/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+1/1 + 9/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+6/6 - 8/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+6/6 - 8/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/6 - 8/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+6/6 - 8/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+6/6 - 8/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+6/6 - 8/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/6 - 8/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+6/6 - 8/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+7/1 - 7/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+7/1 - 7/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+7/1 - 7/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+7/1 - 7/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+7/1 - 7/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+7/1 - 7/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+7/1 - 7/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+7/1 - 7/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+8/2 * 7/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+8/2 * 7/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+8/2 * 7/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+8/2 * 7/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+8/2 * 7/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+8/2 * 7/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+8/2 * 7/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+8/2 * 7/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+8/3 + 2/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+8/3 + 2/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/3 + 2/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+8/3 + 2/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+8/3 + 2/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+8/3 + 2/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+8/3 + 2/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+8/3 + 2/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+6/9 / 2/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+6/9 / 2/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+6/9 / 2/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+6/9 / 2/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+6/9 / 2/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+6/9 / 2/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+6/9 / 2/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+6/9 / 2/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/2 - 3/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+7/2 - 3/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+7/2 - 3/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+7/2 - 3/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+7/2 - 3/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+7/2 - 3/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/2 - 3/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+7/2 - 3/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+9/9 + 7/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+9/9 + 7/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+9/9 + 7/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+9/9 + 7/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+9/9 + 7/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+9/9 + 7/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+9/9 + 7/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+9/9 + 7/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+4/2 / 5/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+4/2 / 5/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+4/2 / 5/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+4/2 / 5/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+4/2 / 5/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+4/2 / 5/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+4/2 / 5/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+4/2 / 5/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+8/4 * 5/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+8/4 * 5/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+8/4 * 5/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+8/4 * 5/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+8/4 * 5/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+8/4 * 5/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+8/4 * 5/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+8/4 * 5/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+9/7 * 4/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+9/7 * 4/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+9/7 * 4/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+9/7 * 4/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+9/7 * 4/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+9/7 * 4/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+9/7 * 4/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+9/7 * 4/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+2/9 - 9/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+2/9 - 9/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+2/9 - 9/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/9 - 9/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+2/9 - 9/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+2/9 - 9/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+2/9 - 9/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+2/9 - 9/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+9/3 + 4/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+9/3 + 4/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+9/3 + 4/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+9/3 + 4/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+9/3 + 4/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+9/3 + 4/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+9/3 + 4/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+9/3 + 4/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+3/6 + 8/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+3/6 + 8/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+3/6 + 8/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+3/6 + 8/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+3/6 + 8/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+3/6 + 8/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+3/6 + 8/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+3/6 + 8/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+9/3 / 9/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+9/3 / 9/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+9/3 / 9/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+9/3 / 9/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+9/3 / 9/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+9/3 / 9/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+9/3 / 9/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+9/3 / 9/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+8/6 / 8/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+8/6 / 8/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/6 / 8/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+8/6 / 8/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+8/6 / 8/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+8/6 / 8/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+8/6 / 8/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+8/6 / 8/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+2/8 / 3/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+2/8 / 3/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+2/8 / 3/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+2/8 / 3/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+2/8 / 3/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+2/8 / 3/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+2/8 / 3/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+2/8 / 3/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+9/9 * 5/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+9/9 * 5/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+9/9 * 5/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+9/9 * 5/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+9/9 * 5/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+9/9 * 5/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+9/9 * 5/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+9/9 * 5/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+3/7 * 5/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+3/7 * 5/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+3/7 * 5/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+3/7 * 5/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/7 * 5/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+3/7 * 5/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+3/7 * 5/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+3/7 * 5/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+1/9 * 1/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+1/9 * 1/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+1/9 * 1/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+1/9 * 1/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+1/9 * 1/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+1/9 * 1/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+1/9 * 1/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+1/9 * 1/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+9/2 / 5/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+9/2 / 5/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+9/2 / 5/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+9/2 / 5/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+9/2 / 5/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+9/2 / 5/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+9/2 / 5/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+9/2 / 5/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+6/8 - 2/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+6/8 - 2/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+6/8 - 2/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+6/8 - 2/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+6/8 - 2/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+6/8 - 2/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+6/8 - 2/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+6/8 - 2/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+1/6 - 3/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+1/6 - 3/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+1/6 - 3/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+1/6 - 3/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+1/6 - 3/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+1/6 - 3/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+1/6 - 3/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+1/6 - 3/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+7/7 * 4/2,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+7/7 * 4/2,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+7/7 * 4/2,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+7/7 * 4/2,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+7/7 * 4/2,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+7/7 * 4/2,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/7 * 4/2,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+7/7 * 4/2,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+5/5 * 4/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+5/5 * 4/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/5 * 4/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/5 * 4/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+5/5 * 4/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+5/5 * 4/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+5/5 * 4/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+5/5 * 4/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+2/3 / 1/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+2/3 / 1/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+2/3 / 1/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+2/3 / 1/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/3 / 1/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+2/3 / 1/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+2/3 / 1/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+2/3 / 1/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+8/2 * 4/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,1
+8/2 * 4/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+8/2 * 4/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+8/2 * 4/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+8/2 * 4/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+8/2 * 4/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+8/2 * 4/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+8/2 * 4/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/1 + 4/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+7/1 + 4/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+7/1 + 4/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+7/1 + 4/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+7/1 + 4/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+7/1 + 4/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+7/1 + 4/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+7/1 + 4/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+8/8 + 1/8,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+8/8 + 1/8,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/8 + 1/8,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+8/8 + 1/8,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+8/8 + 1/8,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+8/8 + 1/8,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+8/8 + 1/8,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+8/8 + 1/8,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+9/1 / 6/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+9/1 / 6/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+9/1 / 6/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+9/1 / 6/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+9/1 / 6/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+9/1 / 6/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+9/1 / 6/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+9/1 / 6/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+6/6 - 4/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+6/6 - 4/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+6/6 - 4/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+6/6 - 4/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/6 - 4/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+6/6 - 4/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/6 - 4/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+6/6 - 4/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+1/4 - 6/7,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+1/4 - 6/7,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+1/4 - 6/7,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+1/4 - 6/7,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+1/4 - 6/7,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+1/4 - 6/7,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+1/4 - 6/7,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+1/4 - 6/7,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+7/1 * 8/3,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+7/1 * 8/3,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+7/1 * 8/3,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+7/1 * 8/3,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+7/1 * 8/3,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+7/1 * 8/3,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+7/1 * 8/3,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+7/1 * 8/3,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+8/8 - 2/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+8/8 - 2/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+8/8 - 2/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+8/8 - 2/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+8/8 - 2/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+8/8 - 2/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+8/8 - 2/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+8/8 - 2/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+3/9 / 2/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+3/9 / 2/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+3/9 / 2/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+3/9 / 2/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/9 / 2/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+3/9 / 2/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+3/9 / 2/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+3/9 / 2/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+4/8 * 7/5,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+4/8 * 7/5,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+4/8 * 7/5,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+4/8 * 7/5,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+4/8 * 7/5,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+4/8 * 7/5,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+4/8 * 7/5,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+4/8 * 7/5,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,1
+3/3 * 3/6,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+3/3 * 3/6,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+3/3 * 3/6,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+3/3 * 3/6,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+3/3 * 3/6,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+3/3 * 3/6,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+3/3 * 3/6,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",3
+3/3 * 3/6,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+8/4 / 5/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+8/4 / 5/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+8/4 / 5/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+8/4 / 5/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+8/4 / 5/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+8/4 / 5/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+8/4 / 5/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+8/4 / 5/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
+4/2 - 2/4,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+4/2 - 2/4,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+4/2 - 2/4,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+4/2 - 2/4,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+4/2 - 2/4,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+4/2 - 2/4,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+4/2 - 2/4,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+4/2 - 2/4,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+2/8 * 5/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+2/8 * 5/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,2
+2/8 * 5/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+2/8 * 5/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+2/8 * 5/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,2
+2/8 * 5/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+2/8 * 5/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+2/8 * 5/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+5/5 - 6/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+5/5 - 6/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+5/5 - 6/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",3
+5/5 - 6/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+5/5 - 6/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+5/5 - 6/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+5/5 - 6/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+5/5 - 6/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+6/1 / 9/9,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,2
+6/1 / 9/9,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+6/1 / 9/9,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+6/1 / 9/9,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,1
+6/1 / 9/9,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,3
+6/1 / 9/9,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,1
+6/1 / 9/9,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+6/1 / 9/9,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+3/6 + 9/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+3/6 + 9/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,1
+3/6 + 9/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",1
+3/6 + 9/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,2
+3/6 + 9/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+3/6 + 9/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,3
+3/6 + 9/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",1
+3/6 + 9/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,3
+5/5 / 1/1,Can you help me start this problem?,Neutral,Unsure,Let's go through it step-by-step.,3
+5/5 / 1/1,Is my answer correct: ,Neutral,Checking,Let's go through it step-by-step.,3
+5/5 / 1/1,This makes no sense to me at all!,Negative,Frustrated,"Don't worry, let's figure it out together.",2
+5/5 / 1/1,I'm not sure why we need to find a common denominator.,Neutral,Curious,Let's go through it step-by-step.,3
+5/5 / 1/1,Here's what I tried: ,Neutral,Explaining,Let's go through it step-by-step.,1
+5/5 / 1/1,Yay! I figured it out!,Positive,Excited,Great job! Let's confirm it.,2
+5/5 / 1/1,I keep getting the wrong answer.,Negative,Discouraged,"Don't worry, let's figure it out together.",2
+5/5 / 1/1,Why does this operation work like this?,Neutral,Questioning,Let's go through it step-by-step.,2
